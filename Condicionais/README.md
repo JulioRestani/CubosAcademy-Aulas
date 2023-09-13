@@ -1,3 +1,3 @@
-# CubosAcademy-Aula-Variaveis
+# CubosAcademy-Aula-Condicionais
 Tarefas e exercícios feitos no curso da CubosAcademy
-Exercicios com variaveis 
+Exercicios com Condições 
